@@ -1,0 +1,8 @@
+---
+title: "My Homepage"
+format:
+  html:
+  embed-resources: true
+---
+
+This is the Homepage of my Project
