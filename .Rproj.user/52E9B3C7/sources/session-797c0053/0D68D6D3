@@ -3,7 +3,7 @@
     "path": "~/ling343/gitPractice_Langston/gitPractice_Langston.qmd",
     "project_path": "gitPractice_Langston.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "2917324938",
     "contents": "",
     "dirty": false,
     "created": 1730383932926.0,
@@ -16,14 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "203:0"
+        "rmdVisualModeLocation": "129:0",
+        "cursorPosition": "8,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1730383930,
+    "lastKnownWriteTime": 1730384381,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1730383930,
+    "last_content_update": 1730384381589,
     "read_only": false,
     "read_only_alternatives": []
 }
